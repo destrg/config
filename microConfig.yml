@@ -1,13 +1,13 @@
 
 server:
-  port: 8882 
+  port: 8880 
   
 ---  
 
 spring: 
   profiles: dev
 server:
-  port: 8882 
+  port: 8881 
 
 ---
 
