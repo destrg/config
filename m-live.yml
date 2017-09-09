@@ -3,13 +3,11 @@ greeting: "안녕하세요"
 ---
 
 spring: 
-  profiles:
-    active: dev
+  profiles: dev
 greeting: "개발 안녕하세요"
 
 ---
 
 spring: 
-  profiles:
-    active: live
+  profiles:live
 greeting: "운영 안녕하세요"
