@@ -3,11 +3,11 @@ greeting: "안녕하세요"
 ---
 
 spring: 
-  frofiles: dev
+  profiles: dev
 greeting: "개발 안녕하세요"
 
 ---
 
 spring: 
-  frofiles: live
+  profiles: live
 greeting: "운영 안녕하세요"
