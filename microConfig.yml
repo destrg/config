@@ -1,16 +1,14 @@
-greeting: "1111111111111 안녕하세요"
 
 ---
 
 spring: 
   profiles: dev
-greeting: "개발 안녕하세요"
 server:
   port: 8882
 ---
 
 spring: 
   profiles: live
-greeting: "운영 안녕하세요"
 server:
   port: 8883
+        
