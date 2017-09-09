@@ -1,0 +1,17 @@
+
+server:
+  port: 8882 
+  
+---  
+
+spring: 
+  profiles: dev
+server:
+  port: 8882 
+
+---
+
+spring: 
+  profiles: live
+server:
+  port: 8882   
