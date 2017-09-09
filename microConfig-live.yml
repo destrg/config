@@ -1,4 +1,0 @@
-spring: 
-  profiles: live
-server:
-  port: 8883
