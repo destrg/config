@@ -1,6 +1,12 @@
+greeting: "안녕하세요"
+
+---
+
 spring: 
   frofiles: dev
 greeting: "개발 안녕하세요"
+
+---
 
 spring: 
   frofiles: live
