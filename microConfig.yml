@@ -7,6 +7,3 @@ spring:
   profiles: live
 server:
   port: 8882   
----  
-server:
-  port: 8880   
