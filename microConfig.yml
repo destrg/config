@@ -1,8 +1,4 @@
 
-server:
-  port: 8880 
-  
----  
 
 spring: 
   profiles: dev
@@ -15,3 +11,9 @@ spring:
   profiles: live
 server:
   port: 8882   
+
+
+server:
+  port: 8880 
+  
+---  
