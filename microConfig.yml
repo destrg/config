@@ -1,16 +1,13 @@
 server:
   port: 8880
-spring:
-  view:
-      prefix: /WEB-INF/jsp/
-      suffix: .jsp
+
 ---
 spring: 
   profiles: dev
 server:
-  port: 8881 
+  port: 9090 
 ---
 spring: 
   profiles: live
 server:
-  port: 8882   
+  port: 9080   
