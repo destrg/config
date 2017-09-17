@@ -1,6 +1,6 @@
 server:
   port: 9222
-aaa: ccc
+aaa: bbbb
 ---
 spring: 
   profiles: dev
