@@ -1,7 +1,7 @@
 server:
   port: 8081
 devguide:
-  message: "디폴트 2"
+  message: "디폴트 333"
 ---
 spring: 
   profiles: dev
