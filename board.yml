@@ -8,11 +8,11 @@ spring:
 server:
   port: 8091 
 devguide:
-  message: "개발"  
+  message: "개발111111234"  
 ---
 spring: 
   profiles: live
 server:
   port: 81
 devguide:
-  message: "운영"  
+  message: "운영111111234"  
