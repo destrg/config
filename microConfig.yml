@@ -1,7 +1,7 @@
 server:
   port: 9222
 devguide:
-  message: "디폴트"
+  message: "디폴트 2"
 ---
 spring: 
   profiles: dev
